@@ -36,3 +36,4 @@ function precmd() {
     unset timer
   fi
 }
+
